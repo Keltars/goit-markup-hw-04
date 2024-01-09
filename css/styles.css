@@ -155,7 +155,7 @@ img {
     ),
     url(/images/hero-bg.jpg);
   background-repeat: no-repeat;
-  background-position: 50% 50%;
+  background-position: center;
   background-size: cover;
   padding-top: 188px;
   padding-bottom: 188px;
